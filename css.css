@@ -1,0 +1,64 @@
+.home{
+    width:800px;
+    border:1px solid black;
+    margin-left:200px;
+    margin:50px;
+    border-radius:5px;
+}
+.heading{
+    margin-left:100px;
+    color:blue;
+}
+.home_button{
+    background-color:blue;
+    color:white;
+    border:0px;
+    border-radius:3px;
+    text-align:center;
+}
+.home_button_text{
+    text-align:center;
+}
+.addContact_button{
+    margin-left:20px;
+    background-color:blue;
+    color:white;
+    border:0px;
+    border-radius:3px;
+}
+input{
+    border:none;
+    border-bottom: 1px solid gray;
+    width:350px;
+    margin:0px;
+    margin-left:20px;
+    margin-bottom:20px;
+    position:relative;
+}
+.delete{
+    text-align:left;
+    background-color:white;
+    margin-right:100px;
+}
+.delete_button{
+    background-color:red;
+    border:none;
+    color:white;
+}
+.home_text{
+    margin-left:100px;
+    text-decoration:none;
+    color:black;
+}
+.input_tags{
+    color:gray;
+    margin:0px;
+    margin-left:20px;
+}
+.input_tag_span{
+    margin-left:289px;
+}
+.heading_2{
+    margin-left:20px;
+    color:blue;
+}
